@@ -1,0 +1,33 @@
+# Alunos - Jonas Santos de Almeida Alves, Rick Martin Lino dos Santos, José Eraldo do Santos Neto;
+
+
+# Compilador da Linguagem Mopa
+Repositório referente à disciplina de Compiladores onde está as especificações e tokens da linguagem e os códigos do compilador;
+
+Programa compilado em java, JDK, e foi utilizado a IDE Eclipse;
+
+# Analisador Léxico e Sintatico
+
+Para a execução do analisador léxico, precisa-se executar o seguinte: 
+
+1. Possuir o **Java JDK** instalado. Caso não tenha:
+
+     No Linux: 
+    https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-on-ubuntu-20-04-pt
+    
+    No Windows: 
+    https://techexpert.tips/pt-br/windows-pt-br/instalar-java-jdk-no-windows/
+    
+2. Clone o Repositório
+
+3. Abrir o terminal no diretório ``Compiladores/Source``
+
+**Precisa ser no Diretório Compiladores/Source**
+
+4. Para executar o analisador é recomendável recompilar o Main.java para sua máquina e SO específico, utilizando o comando:
+
+``javac caminho_do_arquivo/Main.java`` 
+
+5. Para executar com o *txt* basta digitar o seguinte comando:
+
+``java caminho_do_arquivo/Main.java caminho_do_arquivo/input.txt`` (*ou qualquer outro arquivo .txt, de exemplo*)
