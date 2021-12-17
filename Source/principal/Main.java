@@ -8,7 +8,7 @@ import lexico.Lexicon;
 public class Main {
 
 	public static void main(String[] args) {
-		Lexicon lex = new Lexicon("C:/Users/Jonas/Documents/UFAL/Compiladores/src/program/input.txt");
+		// Lexicon lex = new Lexicon("C:/Users/Jonas/Documents/UFAL/Compiladores/src/program/input.txt");
 		Token tk = null;
 		try {
 			//String path = "";
