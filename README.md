@@ -20,14 +20,14 @@ Para a execução do analisador léxico, precisa-se executar o seguinte:
     
 2. Clone o Repositório
 
-3. Abrir o terminal no diretório ``Compiladores/Source``
+3. Abrir o terminal no diretório ``Analisadores``
 
-**Precisa ser no Diretório Compiladores/Source**
+**Precisa ser no Diretório - Analisadores**
 
 4. Para executar o analisador é recomendável recompilar o Main.java para sua máquina e SO específico, utilizando o comando:
 
-``javac caminho_do_arquivo/Main.java`` 
+ ``` javac src/main/MainClass.java ```
 
 5. Para executar com o *txt* basta digitar o seguinte comando:
 
-``java caminho_do_arquivo/Main.java caminho_do_arquivo/input.txt`` (*ou qualquer outro arquivo .txt, de exemplo*)
+``` java src/main/MainClass arquivo_de_entrada.txt ``` (*arquivo .txt, de exemplo*)

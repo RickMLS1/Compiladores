@@ -1,3 +1,0 @@
-Funcao Inteiro Principal() Inicio    
-    Imprimir('Hello World');
-Fim
