@@ -6,6 +6,9 @@ Repositório referente à disciplina de Compiladores onde está as especificaç�
 
 Programa compilado em java, JDK, e foi utilizado a IDE Eclipse;
 
+
+Analisador Léxico e Sintático (Analisador Descendente LL(1) Preditivo Recursivo);
+
 # Analisador Léxico e Sintatico
 
 Para a execução do analisador léxico, precisa-se executar o seguinte: 
